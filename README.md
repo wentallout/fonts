@@ -16,3 +16,14 @@ Khoa's favorite fonts.
 ## How to self host fonts
 
 https://gwfh.mranftl.com/fonts
+
+## Custom font hosting CSS
+
+```css
+@font-face {
+
+  font-family: "Open Sans";
+  src: url("opensans.woff2") format('woff2');
+
+}
+```
