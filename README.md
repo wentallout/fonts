@@ -21,6 +21,10 @@ https://www.myfonts.com/collections/tactic-sans-font-miller-type
 
 https://gwfh.mranftl.com/fonts
 
+## Tumblr
+
+- https://fontriver.tumblr.com/
+
 ## Custom font hosting CSS
 
 ```css
