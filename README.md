@@ -38,6 +38,8 @@ https://gwfh.mranftl.com/fonts
 
 ## Famous company fonts
 
+https://kilotype.de/
+
 Geist: https://github.com/vercel/geist-font
 
 
