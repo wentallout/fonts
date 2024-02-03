@@ -36,9 +36,11 @@ https://gwfh.mranftl.com/fonts
 }
 ```
 
-## Famous company fonts
+## Premium fonts
 
 https://kilotype.de/
+
+## Other
 
 Geist: https://github.com/vercel/geist-font
 
