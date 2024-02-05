@@ -44,4 +44,8 @@ https://kilotype.de/
 
 Geist: https://github.com/vercel/geist-font
 
+## Variable fonts
+
+https://v-fonts.com/
+
 
