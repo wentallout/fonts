@@ -1,6 +1,8 @@
 # fonts
 
-Khoa's favorite fonts.
+## Variable fonts
+
+https://v-fonts.com/
 
 ## Bookmarked
 
@@ -43,9 +45,3 @@ https://kilotype.de/
 ## Other
 
 Geist: https://github.com/vercel/geist-font
-
-## Variable fonts
-
-https://v-fonts.com/
-
-
