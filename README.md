@@ -45,3 +45,5 @@ https://kilotype.de/
 ## Other
 
 Geist: https://github.com/vercel/geist-font
+
+Shantell Sans  https://shantellsans.com/
