@@ -31,12 +31,18 @@ https://gwfh.mranftl.com/fonts
 
 ```css
 @font-face {
-
-  font-family: "Open Sans";
-  src: url("opensans.woff2") format('woff2');
-
+    font-family: 'Inter';
+    font-display: swap;
+    font-style: normal;
+    src: url('/fonts/Inter.woff2') format('woff2');
+    font-weight: 300 600;
 }
 ```
+
+### Variable font subset
+
+https://barrd.dev/article/create-a-variable-font-subset-for-smaller-file-size
+
 
 ## Premium fonts
 
