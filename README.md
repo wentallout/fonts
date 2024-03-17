@@ -19,6 +19,20 @@ https://www.myfonts.com/collections/tactic-sans-font-miller-type
 - https://fontspace.io/
 - https://vk.com/topic-50911295_28400542
 
+## Other
+
+- https://www.bnicks.com/shop
+- https://www.kernclub.com/shop?category=Fonts
+-  http://velvetyne.fr/
+-  https://www.theleagueofmoveabletype.com/
+-  Fontshare: https://www.fontshare.com/
+- Font Fabric: https://www.fontfabric.com/free-fonts/
+- TypeType: https://typetype.org/freefonts/
+- Open Foundry: https://open-foundry.com/fonts
+- https://www.awwwards.com/awwwards/collections/free-fonts/
+- Use & Modify: https://usemodify.com/
+- Behance: [https://www.behance.net/search?tracki...](https://www.behance.net/search?tracking_source=typeahead_search_direct&search=free+font)
+
 ## How to self host fonts
 
 https://gwfh.mranftl.com/fonts
