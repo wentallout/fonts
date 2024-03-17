@@ -32,6 +32,7 @@ https://www.myfonts.com/collections/tactic-sans-font-miller-type
 - https://www.awwwards.com/awwwards/collections/free-fonts/
 - Use & Modify: https://usemodify.com/
 - Behance: [https://www.behance.net/search?tracki...](https://www.behance.net/search?tracking_source=typeahead_search_direct&search=free+font)
+- https://typotheque.le75.be/
 
 ## How to self host fonts
 
