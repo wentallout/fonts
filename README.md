@@ -7,6 +7,9 @@ https://v-fonts.com/
 ## Bookmarked
 
 https://www.myfonts.com/collections/tactic-sans-font-miller-type
+Geist: https://github.com/vercel/geist-font
+
+- Shantell Sans  https://shantellsans.com/
 
 ## Free fonts
 
@@ -55,18 +58,11 @@ https://gwfh.mranftl.com/fonts
 
 https://barrd.dev/article/create-a-variable-font-subset-for-smaller-file-size
 
-
 ## Premium fonts
 
 https://kilotype.de/
 
-## Other
-
-Geist: https://github.com/vercel/geist-font
-
-Shantell Sans  https://shantellsans.com/
-
 ## Collection
 
-https://pixcap.com/blog/90s-fonts
-https://pixcap.com/blog/graphic-design-fonts
+- https://pixcap.com/blog/90s-fonts
+- https://pixcap.com/blog/graphic-design-fonts
