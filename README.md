@@ -11,7 +11,6 @@ https://www.myfonts.com/collections/tactic-sans-font-miller-type
 ## Free fonts
 
 - https://www.freefaces.gallery
-- https://www.fontshare.com
 - https://fontsss.com/
 - https://fontshub.pro/
 - https://www.1001freefonts.com/
