@@ -68,3 +68,8 @@ https://kilotype.de/
 Geist: https://github.com/vercel/geist-font
 
 Shantell Sans  https://shantellsans.com/
+
+## Collection
+
+https://pixcap.com/blog/90s-fonts
+https://pixcap.com/blog/graphic-design-fonts
