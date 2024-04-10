@@ -4,13 +4,6 @@
 
 https://v-fonts.com/
 
-## Bookmarked
-
-https://www.myfonts.com/collections/tactic-sans-font-miller-type
-Geist: https://github.com/vercel/geist-font
-
-- Shantell Sans  https://shantellsans.com/
-
 ## Free fonts
 
 - https://www.freefaces.gallery
@@ -62,14 +55,17 @@ https://barrd.dev/article/create-a-variable-font-subset-for-smaller-file-size
 
 https://kilotype.de/
 
-## Collection
+## Bookmarked Fonts
 
+- Shantell Sans  https://shantellsans.com/
+- https://www.myfonts.com/collections/tactic-sans-font-miller-type
+- Geist: https://github.com/vercel/geist-font
 - https://pixcap.com/blog/90s-fonts
 - https://pixcap.com/blog/graphic-design-fonts
-BDO Grotesk 👉 https://uncut.wtf/sans-serif/bdo-grot... 
-Outfit 👉 https://fonts.google.com/specimen/Outfit 
-Instrument Serif  👉 https://fonts.google.com/specimen/Ins... 
-Space Mono 👉 https://fonts.google.com/specimen/Spa...  
-Cooper Hewitt 👉 https://www.cooperhewitt.org/open-sou... 
-Hedvig  👉 https://fonts.google.com/specimen/Hed...  https://fonts.google.com/specimen/Hed...
+- BDO Grotesk  https://uncut.wtf/sans-serif/bdo-grot 
+- Outfit
+- Instrument Serif
+- Space Mono (Google Fonts)
+- Cooper Hewitt
+- Hedvig
 
